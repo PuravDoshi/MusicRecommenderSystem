@@ -1,1 +1,1 @@
-# MusicRecommenderSystem
+# This projects gives personalized recommendations to users based on their song selection. The algorithm used is "Content-Based Filtering". 
